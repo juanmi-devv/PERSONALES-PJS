@@ -9,6 +9,8 @@ print(x + y)  # Resultado de la suma
 # Último comentario
 # Comentario adicional al final del archivo
 
+
+
 def funcion_ejemplo():
     # Comentario dentro de una función
     return x * y  # Retorna el producto de x e y
